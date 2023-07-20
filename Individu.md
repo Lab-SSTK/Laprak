@@ -2,7 +2,7 @@
 
 ## Sampul Depan
 <div style="text-align: justify">
-Halaman sampul depan memuat (berurutan dari atas ke bawah, jarak spasi 1): 
+Halaman sampul depan memuat (berurutan dari atas ke bawah): 
 
 1. Kode dan judul modul praktikum: huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
 2. Tulisan "Laporan Praktikum": huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
@@ -23,7 +23,7 @@ Halaman sampul depan memuat (berurutan dari atas ke bawah, jarak spasi 1):
 17. Tulisan "YOGYAKARTA"
 18. Tahun praktikum
 
-<b>Poin 12-18: _font_ "Times New Roman", ukuran 14, _bold_.</b>
+<b>Poin 12-18: _font_ "Times New Roman", ukuran 14, _bold_, spasi <i>single</i>.</b>
 </div>
 
 ## Daftar Isi
