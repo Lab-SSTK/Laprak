@@ -1,7 +1,9 @@
 # Bagian Awal
 
 ## Sampul Depan
+<div style="text-align: justify">
 Halaman sampul depan memuat (berurutan dari atas ke bawah, jarak spasi 1): 
+
 1. Kode dan judul modul praktikum: huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
 2. Tulisan "Laporan Praktikum": huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
 3.  (spasi)
@@ -21,64 +23,84 @@ Halaman sampul depan memuat (berurutan dari atas ke bawah, jarak spasi 1):
 17. Tulisan "YOGYAKARTA"
 18. Tahun praktikum
 
-**Poin 12-18: _font_ "Times New Roman", ukuran 14, _bold_.**
+<b>Poin 12-18: _font_ "Times New Roman", ukuran 14, _bold_.</b>
+</div>
 
 ## Daftar Isi
+<div style="text-align: justify">
 Berisikan bab dan sub-bab utama dari laporan Anda beserta halaman rujukan.
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 ## Daftar Gambar
+<div style="text-align: justify">
 Berisikan daftar gambar yang terdapat pada laporan Anda beserta halaman rujukan.
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 ## Daftar Tabel
+<div style="text-align: justify">
 Berisikan daftar tabel yang terdapat pada laporan Anda beserta halaman rujukan.
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 ## Daftar Persamaan
+<div style="text-align: justify">
 Berisikan daftar persamaan-persamaan yang Anda gunakan pada laporan Anda.
-
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_** 
 
 Format penulisan daftar persamaan pada bab ini adalah:
 
-**Nama persamaan: (4 spasi) persamaan**
+<b>Nama persamaan: (4 spasi) persamaan</b>
+
+<b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 ## Daftar Singkatan dan Notasi Ilmiah
-Berisikan daftar singkatan dan notasi ilmiah yang Anda gunakan pada laporan Anda.
-
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_** 
+<div style="text-align: justify">
+Berisikan daftar singkatan dan notasi ilmiah yang Anda gunakan pada laporan Anda. 
 
 Format penulisan daftar singkatan dan notasi ilmiah pada bab ini adalah:
 
-**Singkatan/Notasi Ilmiah: (4 spasi) kepanjangan/penggunaan**
+<b>Singkatan/Notasi Ilmiah: (4 spasi) kepanjangan/penggunaan</b>
+
+<b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 ## Daftar Lampiran
+<div style="text-align: justify">
 Berisikan daftar lampiran (jika ada) yang terdapat pada laporan Anda beserta halaman rujukan. 
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_</b>
+</div>
 
 # Bagian Utama
 
 ## Tujuan Praktikum
+<div style="text-align: justify">
 Berisikan tujuan praktikum yang ingin dicapai pada modul terkait. 
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_</b>
+</div>
 
 ## Dasar Teori
+<div style="text-align: justify">
 Berisikan dasar teori singkat yang berkaitan dengan percobaan yang Anda lakukan pada modul tersebut, pastikan Anda menggunakan sitasi jika merujuk pada suatu referensi. Pada bab ini pastikan setiap poin dasar teori Anda jadikan subbab secara runut sesuai dengan penggunaannya pada percobaan yang Anda lakukan.
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_, format sitasi: IEEE**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_, format sitasi: IEEE</b>
+</div>
 
 ## Langkah Percobaan
+<div style="text-align: justify">
 Berisikan langkah-langkah yang Anda lakukan secara runut di setiap percobaan pada modul terkait. Pada bab ini pastikan Anda membuat subbab yang memisahkan antara satu percobaan dengan percobaan lainnya.
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_</b>
+</div>
 
 ## Hasil dan Pembahasan
+<div style="text-align: justify">
 Berisikan hasil dan pembahasan dari setiap percobaan yang telah Anda lakukan pada modul terkait. Bab ini terdiri dari subbab sesuai dengan jumlah percobaan yang Anda lakukan. Pada setiap subbab, wajib terdapat subsubbab yang terdiri dari:
 
 1. Variabel bebas, variabel terikat, dan variabel kontrol pada percobaan. Anda harus menjelaskan bagaimana pengaruh dari ketiga variabel tersebut terhadap hasil percobaan.
@@ -86,15 +108,26 @@ Berisikan hasil dan pembahasan dari setiap percobaan yang telah Anda lakukan pad
 3. Hasil percobaan yang telah Anda dapatkan.
 4. Analisis data. Anda harus menjelaskan apakah hasil percobaan yang Anda dapatkan telah sesuai dengan teori atau tidak, jika terdapat perbedaan antara hasil percobaan dengan teori yang berlaku (merujuk pada subsubbab 2), maka Anda harus menjelaskan analisis Anda terkait penyebabnya secara komprehensif.
 
+<b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_</b>
+</div>
+
 ## Kesimpulan dan Saran
+<div style="text-align: justify">
 Bab ini terdiri dari dua subbab: kesimpulan dan saran. Subbab kesimpulan berisikan poin-poin kesimpulan dari percobaan yang telah Anda lakukan dan merujuk pada tujuan praktikum secara keseluruhan. Subbab saran berisikan saran Anda terkait pelaksanaan percobaan jika terjadi masalah selama percobaan ataupun perbedaan hasil antara percobaan dengan kondisi ideal yang diharapkan.
+
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi 1.5, _alignment justify_</b>
+</div>
 
 # Bagian Akhir
 
 ## Daftar Pustaka
+<div style="text-align: justify">
 Berisikan referensi yang Anda gunakan pada dasar teori dan perumusan analisis data. Daftar pustaka terdiri dari minimal tiga buah referensi. Referensi yang diizinkan adalah buku, jurnal, dan penelitian mahasiswa (skripsi dan tesis).
 
-**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_, _alignment justify_, format: IEEE**
+<br><b>Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_, _alignment justify_, format: IEEE</b>
+</div>
 
 ## Lampiran
+<div style="text-align: justify">
 Berisikan konten-konten yang Anda gunakan dalam pengolahan dan analisis data yang tidak dapat Anda cantumkan secara eksplisit pada bab-bab sebelumnya.
+</div>
