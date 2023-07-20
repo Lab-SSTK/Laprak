@@ -2,31 +2,31 @@
 
 ## Sampul Depan
 Halaman sampul depan memuat (berurutan dari atas ke bawah, jarak spasi 1): 
-1. kode dan judul modul praktikum: huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
-2. tulisan "Laporan Praktikum": huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
+1. Kode dan judul modul praktikum: huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
+2. Tulisan "Laporan Praktikum": huruf kapital, _font_ "Times New Roman", ukuran 14, _bold_
 3.  (spasi)
-4. lambang Universitas Gadjah Mada
+4. Lambang Universitas Gadjah Mada
 5. (spasi)
-6. nama lengkap: huruf kapital, _font_ "Times New Roman", ukuran 12, _bold_
+6. Nama lengkap: huruf kapital, _font_ "Times New Roman", ukuran 12, _bold_
 7. NIM lengkap: huruf kapital, _font_ "Times New Roman", ukuran 12
 8. (spasi)
-9. tulisan "Asisten Praktikum" diikuti nama dan NIM lengkap asisten praktikum: _font_ "Times New Roman", ukuran 12, _bold_
-10. tulisan "Anggota Kelompok" diikuti nama dan NIM lengkap anggota kelompok: _font_ "Times New Roman", ukuran 12
+9. Tulisan "Asisten Praktikum" diikuti nama dan NIM lengkap asisten praktikum: _font_ "Times New Roman", ukuran 12, _bold_
+10. Tulisan "Anggota Kelompok" diikuti nama dan NIM lengkap anggota kelompok: _font_ "Times New Roman", ukuran 12
 11. (spasi)
-12. tulisan "LABORATORIUM SENSOR DAN SISTEM TELEKONTROL" 
-13. program studi dengan huruf kapital
-14. tulisan "DEPARTEMEN TEKNIK NUKLIR DAN TEKNIK FISIKA"
-15. tulisan "FAKULTAS TEKNIK"
-16. tulisan "UNIVERSITAS GADJAH MADA"
-17. tulisan "YOGYAKARTA"
-18. tahun praktikum
+12. Tulisan "LABORATORIUM SENSOR DAN SISTEM TELEKONTROL" 
+13. Program studi dengan huruf kapital
+14. Tulisan "DEPARTEMEN TEKNIK NUKLIR DAN TEKNIK FISIKA"
+15. Tulisan "FAKULTAS TEKNIK"
+16. Tulisan "UNIVERSITAS GADJAH MADA"
+17. Tulisan "YOGYAKARTA"
+18. Tahun praktikum
 
 **Poin 12-18: _font_ "Times New Roman", ukuran 14, _bold_.**
 
 ## Daftar Isi
 Berisikan bab dan sub-bab utama dari laporan Anda beserta halaman rujukan.
 
-**ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
+**Ketentuan: _font_ "Times New Roman", ukuran 12, spasi _single_**
 
 ## Daftar Gambar
 Berisikan daftar gambar yang terdapat pada laporan Anda beserta halaman rujukan.
